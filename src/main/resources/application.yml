@@ -1,0 +1,4 @@
+spring:
+  thymeleaf:
+    prefix: classpath:/pages/
+    suffix: .jsp
